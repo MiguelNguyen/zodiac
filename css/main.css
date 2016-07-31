@@ -1,0 +1,22 @@
+* {
+	text-align: center;
+
+}
+h1 {
+	font-size: 38px;
+}
+#click {
+	font-size: 13px;
+	border: none;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	background-color: #008CBA;
+	padding: 18px;
+	margin-top: 15px;
+
+}
+#info {
+	width: 38%;
+	padding: 1% 4.5%
+}

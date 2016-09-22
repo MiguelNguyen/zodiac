@@ -1,12 +1,16 @@
 * {
 	text-align: center;
+	background-image: url("../img/background.jpg");
+	color: white;
+	font-family: 'Yellowtail', cursive;
+
 
 }
 h1 {
 	font-size: 38px;
 }
 #click {
-	font-size: 13px;
+	font-size: 33px;
 	border: none;
 	color: white;
 	text-align: center;
@@ -18,5 +22,11 @@ h1 {
 }
 #info {
 	width: 38%;
-	padding: 1% 4.5%
+	padding: 1% 4.5%;
+	font-size: 25px;
+}
+#yourHoroscope {
+	font-size: 40px;
+	font-family: 'Reem Kufi', sans-serif;
+
 }
